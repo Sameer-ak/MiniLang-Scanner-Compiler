@@ -1,0 +1,8 @@
+// Test case 3: Boolean expressions and comments
+a = true;
+b = false;
+if (a == true && b == false) {
+    print true; // This should be printed
+} else {
+    print false;
+}

@@ -1,0 +1,6 @@
+// Test case 2: Conditional statements
+if (x == 10) {
+    print true;
+} else {
+    print false;
+}
